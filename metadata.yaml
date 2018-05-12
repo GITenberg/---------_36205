@@ -1,0 +1,34 @@
+_repo: '---------_36205'
+_version: 0.1.0
+alternative_title: The Murderess
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Papadiamantes, Alexandros
+    aliases:
+    - Papadiamantis, Alexandros
+    - Παπαδιαμάντης, Αλέξανδρος
+    birthdate: 1851
+    deathdate: 1911
+    gutenberg_agent_id: '35382'
+    url: http://www.gutenberg.org/2009/agents/35382
+    wikipedia: http://en.wikipedia.org/wiki/Alexandros_Papadiamantis
+description: ''
+gutenberg_issued: '2011-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36205'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women peasants -- Greece -- Skiathos Island -- Psychology -- Fiction'
+- !lcsh 'Skiathos Island (Greece) -- Social conditions -- Fiction'
+- !lcsh 'Women murderers -- Greece -- Skiathos Island -- Fiction'
+- !lcc 'PA'
+- !lcsh 'Greek fiction, Modern'
+title: Η Φόνισσα
+url: http://www.gutenberg.org/ebooks/36205
